@@ -1,3 +1,7 @@
+# Deprecated
+
+This repo is deprecated, replaced by https://github.com/NYPL/research-catalog
+
 <div align="center">
 
 # NYPL Discovery Application
